@@ -46,3 +46,5 @@ A water pump is operated using a single channel 5V relay module. The pump can be
 To ensure stable operation, the code incorporates delays that allow for reliable sensor readings and smoother motor transitions. Serial print statements provide real-time feedback on sensor data and command execution, facilitating debugging and fine-tuning during development.
 
 Overall, the integrated system combines sensor-based navigation with manual override capabilities, enabling robust autonomous cleaning while allowing for user control when needed.
+
+*Inspired by The Ultimate Floor Cleaning Robot (v2.0) by Saiyam Agrawal.*  
